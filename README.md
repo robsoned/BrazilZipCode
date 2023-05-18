@@ -4,11 +4,13 @@
 
 Módulo criado para utilização de serviços de consulta de CEP, já contendo de forma básica consulta pelo ViaCep e Correios.
 
+Módulo originalmente criado por [m2-magedev/BrazilZipCode](https://github.com/m2-magedev/BrazilZipCode/).
+
 ### Como instalar
 
 #### Instalar via Composer (recomendado)
 ```
-composer require magedev/brazilzipcode
+composer require ricardomartins/brazilzipcode
 php bin/magento module:enable MageDev_BrazilZipCode
 php bin/magento setup:upgrade
 ```
@@ -75,4 +77,4 @@ seu serviço será o primeiro a ser acessado quando o CEP não for localizado no
 
 Doe agora e ajude a manter o trabalho! ;)
 
-No momento estou recebendo doações apenas via PicPay através do usuário @walisson-ferreira
+Pode por PicPay através do usuário @walisson-ferreira ou [via github para r-martins](https://github.com/sponsors/r-martins).
