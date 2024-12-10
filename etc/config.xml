@@ -6,6 +6,7 @@
                 <cache_status>1</cache_status>
                 <db_status>1</db_status>
                 <accept_general_zipcode>1</accept_general_zipcode>
+                <service_sort_order>""</service_sort_order>
             </general>
         </brazil_zipcode>
     </default>
