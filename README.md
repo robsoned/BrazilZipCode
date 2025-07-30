@@ -10,7 +10,7 @@ Módulo originalmente criado por [m2-magedev/BrazilZipCode](https://github.com/m
 
 #### Instalar via Composer (recomendado)
 ```
-composer require ricardomartins/brazilzipcode
+composer require robsoned/brazilzipcode
 php bin/magento module:enable MageDev_BrazilZipCode
 php bin/magento setup:upgrade
 ```
@@ -73,8 +73,3 @@ Criar uma chave de integração no Magento e fazer uso do header de Authorizatio
 - Obs: Caso deseje priorizar seu serviço, acesse as configurações do módulo BrazilZipCode no admin e adicione seu serviço como o primeiro da lista, assim
 seu serviço será o primeiro a ser acessado quando o CEP não for localizado no cache ou banco de dados.
 
-## Doações
-
-Doe agora e ajude a manter o trabalho! ;)
-
-Pode por PicPay através do usuário @walisson-ferreira ou [via github para r-martins](https://github.com/sponsors/r-martins).
