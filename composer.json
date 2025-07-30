@@ -14,7 +14,7 @@
     "license": [
         "GPL-3.0-or-later"
     ],
-    "homepage": "https://github.dev/robsoned/BrazilZipCode",
+    "homepage": "https://github.com/robsoned/BrazilZipCode",
     "authors": [
         {
             "name": "Walisson Costa Ferreira",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Robson Santos",           
-            "homepage": "https://github.dev/robsoned/BrazilZipCode",
+            "homepage": "https://github.com/robsoned/BrazilZipCode",
             "role": "Developer"
         }        
     ],
